@@ -1,4 +1,4 @@
-# Individual-Task-1-Part-1 and Individual Task 2 part 1,2 and 3.
+# Individual-Task-1-Part-1 and Individual Task 2 part 2.
 The assignment for my case studies in data science subject which includes ML Modeling
 # Case Study 2026 — Banking Data Science
 
